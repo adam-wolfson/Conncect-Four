@@ -1,0 +1,667 @@
+Let the game begin!
+AI-Y1 is yellow. AI-R2 is red.
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+AI-Y1's state is initially
+AI will play next on the board below as Y
+Value: 7
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+Children at depth 1:
+----------------
+   Opponent will play next on the board below as R
+   Value: 3
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   |Y| | | | | | |
+
+   Opponent will play next on the board below as R
+   Value: 4
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | |Y| | | | | |
+
+   Opponent will play next on the board below as R
+   Value: 5
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | |Y| | | | |
+
+   Opponent will play next on the board below as R
+   Value: 7
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | |Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 5
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | |Y| | |
+
+   Opponent will play next on the board below as R
+   Value: 4
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | |Y| |
+
+   Opponent will play next on the board below as R
+   Value: 3
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | |Y|
+
+AI-Y1 put a chip in column 3, resulting in
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | |Y| | | |
+
+AI-R2 put a chip in column 3, resulting in
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | |R| | | |
+| | | |Y| | | |
+
+AI-Y1's state is now
+AI will play next on the board below as Y
+Value: 10
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | |R| | | |
+| | | |Y| | | |
+
+Children at depth 1:
+----------------
+   Opponent will play next on the board below as R
+   Value: 0
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | |R| | | |
+   |Y| | |Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 1
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | |R| | | |
+   | |Y| |Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 2
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | |R| | | |
+   | | |Y|Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 10
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 2
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | |R| | | |
+   | | | |Y|Y| | |
+
+   Opponent will play next on the board below as R
+   Value: 1
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | |R| | | |
+   | | | |Y| |Y| |
+
+   Opponent will play next on the board below as R
+   Value: 0
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | |R| | | |
+   | | | |Y| | |Y|
+
+AI-Y1 put a chip in column 3, resulting in
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+
+AI-R2 put a chip in column 3, resulting in
+| | | | | | | |
+| | | | | | | |
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+
+AI-Y1's state is now
+AI will play next on the board below as Y
+Value: 7
+| | | | | | | |
+| | | | | | | |
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+
+Children at depth 1:
+----------------
+   Opponent will play next on the board below as R
+   Value: 0
+   | | | | | | | |
+   | | | | | | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   |Y| | |Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 1
+   | | | | | | | |
+   | | | | | | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | |Y| |Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 2
+   | | | | | | | |
+   | | | | | | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | |Y|Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 7
+   | | | | | | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 2
+   | | | | | | | |
+   | | | | | | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y|Y| | |
+
+   Opponent will play next on the board below as R
+   Value: 1
+   | | | | | | | |
+   | | | | | | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| |Y| |
+
+   Opponent will play next on the board below as R
+   Value: 0
+   | | | | | | | |
+   | | | | | | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | |Y|
+
+AI-Y1 put a chip in column 3, resulting in
+| | | | | | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+
+AI-R2 put a chip in column 3, resulting in
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+
+AI-Y1's state is now
+AI will play next on the board below as Y
+Value: 5
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+
+Children at depth 1:
+----------------
+   Opponent will play next on the board below as R
+   Value: 3
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   |Y| | |Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 4
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | |Y| |Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 5
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | |Y|Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 5
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y|Y| | |
+
+   Opponent will play next on the board below as R
+   Value: 4
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| |Y| |
+
+   Opponent will play next on the board below as R
+   Value: 3
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | |Y|
+
+AI-Y1 put a chip in column 2, resulting in
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | |Y|Y| | | |
+
+AI-R2 put a chip in column 2, resulting in
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+
+AI-Y1's state is now
+AI will play next on the board below as Y
+Value: 8
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+
+Children at depth 1:
+----------------
+   Opponent will play next on the board below as R
+   Value: 0
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | |R|R| | | |
+   |Y| |Y|Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 1
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | |R|R| | | |
+   | |Y|Y|Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 8
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 2
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y|Y| | |
+
+   Opponent will play next on the board below as R
+   Value: 1
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| |Y| |
+
+   Opponent will play next on the board below as R
+   Value: 0
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | |Y|
+
+AI-Y1 put a chip in column 2, resulting in
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+
+AI-R2 put a chip in column 2, resulting in
+| | | |R| | | |
+| | | |Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+
+AI-Y1's state is now
+AI will play next on the board below as Y
+Value: 5
+| | | |R| | | |
+| | | |Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+
+Children at depth 1:
+----------------
+   Opponent will play next on the board below as R
+   Value: 0
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   |Y| |Y|Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 1
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | |Y|Y|Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 5
+   | | | |R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 2
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y|Y| | |
+
+   Opponent will play next on the board below as R
+   Value: 1
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| |Y| |
+
+   Opponent will play next on the board below as R
+   Value: 0
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | |Y|
+
+AI-Y1 put a chip in column 2, resulting in
+| | | |R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+
+AI-R2 put a chip in column 2, resulting in
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+
+AI-Y1's state is now
+AI will play next on the board below as Y
+Value: 5
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+
+Children at depth 1:
+----------------
+   Opponent will play next on the board below as R
+   Value: 3
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   |Y| |Y|Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 4
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | |Y|Y|Y| | | |
+
+   Opponent will play next on the board below as R
+   Value: 5
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y|Y| | |
+
+   Opponent will play next on the board below as R
+   Value: 4
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| |Y| |
+
+   Opponent will play next on the board below as R
+   Value: 3
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | |Y|
+
+AI-Y1 put a chip in column 4, resulting in
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y|Y| | |
+
+AI-R2 put a chip in column 0, resulting in
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+|R| |Y|Y|Y| | |
+
+AI-Y1's state is now
+AI will play next on the board below as Y
+Value: 2147483647
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+|R| |Y|Y|Y| | |
+
+Children at depth 1:
+----------------
+   Opponent will play next on the board below as R
+   Value: 6
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   |Y| |R|R| | | |
+   |R| |Y|Y|Y| | |
+
+   Opponent will play next on the board below as R
+   Value: 2147483647
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   |R|Y|Y|Y|Y| | |
+
+   Opponent will play next on the board below as R
+   Value: 10
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R|Y| | |
+   |R| |Y|Y|Y| | |
+
+   Opponent will play next on the board below as R
+   Value: 2147483647
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   |R| |Y|Y|Y|Y| |
+
+   Opponent will play next on the board below as R
+   Value: 5
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   |R| |Y|Y|Y| |Y|
+
+AI-Y1 put a chip in column 1, resulting in
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+|R|Y|Y|Y|Y| | |
+
+AI-Y1 won the game!!!

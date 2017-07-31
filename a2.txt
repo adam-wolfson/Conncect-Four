@@ -1,0 +1,3210 @@
+Let the game begin!
+AI-Y1 is yellow. AI-R2 is red.
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+AI-Y1 put a chip in column 3, resulting in
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | |Y| | | |
+
+AI-R2's state is now
+AI will play next on the board below as R
+Value: -10
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | |Y| | | |
+
+Children at depth 1:
+----------------
+   Opponent will play next on the board below as Y
+   Value: -14
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   |R| | |Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      |Y| | | | | | |
+      |R| | |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      |R|Y| |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      |R| |Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -14
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      |R| | |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      |R| | |Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      |R| | |Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      |R| | |Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -13
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | |R| |Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -6
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      |Y|R| |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | |Y| | | | | |
+      | |R| |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | |R|Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -13
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | |R| |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | |R| |Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | |R| |Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | |R| |Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -12
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | |R|Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -5
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      |Y| |R|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | |Y|R|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -10
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | |Y| | | | |
+      | | |R|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -12
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | |R|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | |R|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | |R|Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: -5
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | |R|Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -10
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: 0
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |R| | | |
+      |Y| | |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -1
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |R| | | |
+      | |Y| |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -2
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -10
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -2
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |R| | | |
+      | | | |Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -1
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |R| | | |
+      | | | |Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: 0
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |R| | | |
+      | | | |Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -12
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | |Y|R| | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -5
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      |Y| | |Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | |Y| |Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | |Y|Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -12
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -10
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | |Y| | |
+      | | | |Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y|R|Y| |
+
+      AI will play next on the board below as R
+      Value: -5
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y|R| |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -13
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | |Y| |R| |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -6
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      |Y| | |Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | |Y| |Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | |Y|Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -13
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y|Y|R| |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | |Y| |
+      | | | |Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| |R|Y|
+
+   Opponent will play next on the board below as Y
+   Value: -14
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | |Y| | |R|
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -7
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      |Y| | |Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | |Y| |Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | |Y|Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -14
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y|Y| |R|
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| |Y|R|
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | |Y|
+      | | | |Y| | |R|
+
+AI-R2 put a chip in column 3, resulting in
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | |R| | | |
+| | | |Y| | | |
+
+AI-Y1 put a chip in column 3, resulting in
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+
+AI-R2's state is now
+AI will play next on the board below as R
+Value: -7
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+
+Children at depth 1:
+----------------
+   Opponent will play next on the board below as Y
+   Value: -20
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   |R| | |Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -11
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      |Y| | |R| | | |
+      |R| | |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -11
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |R|Y| |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -12
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |R| |Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -20
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |R| | |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -12
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |R| | |Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -11
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |R| | |Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: -10
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |R| | |Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -19
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | |R| |Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |Y|R| |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -12
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | |Y| |R| | | |
+      | |R| |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -11
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |R|Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -19
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |R| |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -11
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |R| |Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -10
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |R| |Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |R| |Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -18
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | |R|Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |Y| |R|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |Y|R|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -13
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | |Y|R| | | |
+      | | |R|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -18
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |R|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -10
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |R|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |R|Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |R|Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -7
+   | | | | | | | |
+   | | | | | | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: 0
+      | | | | | | | |
+      | | | | | | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |Y| | |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -1
+      | | | | | | | |
+      | | | | | | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |Y| |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -2
+      | | | | | | | |
+      | | | | | | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -2
+      | | | | | | | |
+      | | | | | | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -1
+      | | | | | | | |
+      | | | | | | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: 0
+      | | | | | | | |
+      | | | | | | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -18
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y|R| | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |Y| | |Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |Y| |Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -10
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -18
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -13
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R|Y| | |
+      | | | |Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y|R|Y| |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y|R| |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -19
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| |R| |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |Y| | |Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -10
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |Y| |Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -11
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -19
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -11
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y|Y|R| |
+
+      AI will play next on the board below as R
+      Value: -12
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| |Y| |
+      | | | |Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| |R|Y|
+
+   Opponent will play next on the board below as Y
+   Value: -20
+   | | | | | | | |
+   | | | | | | | |
+   | | | | | | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | |R|
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -10
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |Y| | |Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -11
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |Y| |Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -12
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -20
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -12
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y|Y| |R|
+
+      AI will play next on the board below as R
+      Value: -11
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| |Y|R|
+
+      AI will play next on the board below as R
+      Value: -11
+      | | | | | | | |
+      | | | | | | | |
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | |Y|
+      | | | |Y| | |R|
+
+AI-R2 put a chip in column 3, resulting in
+| | | | | | | |
+| | | | | | | |
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+
+AI-Y1 put a chip in column 3, resulting in
+| | | | | | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+
+AI-R2's state is now
+AI will play next on the board below as R
+Value: -5
+| | | | | | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+
+Children at depth 1:
+----------------
+   Opponent will play next on the board below as Y
+   Value: -11
+   | | | | | | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   |R| | |Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      |Y| | |R| | | |
+      |R| | |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |R|Y| |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |R| |Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -11
+      | | | |Y| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |R| | |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |R| | |Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |R| | |Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |R| | |Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -10
+   | | | | | | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | |R| |Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -6
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |Y|R| |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | |Y| |R| | | |
+      | |R| |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |R|Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -10
+      | | | |Y| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |R| |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |R| |Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |R| |Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |R| |Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -10
+   | | | | | | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | |R|Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -5
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |Y| |R|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |Y|R|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -10
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |Y|R| | | |
+      | | |R|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | |Y| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |R|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |R|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |R|Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: -5
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |R|Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -5
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -3
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |Y| | |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -4
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |Y| |Y| | | |
+
+      AI will play next on the board below as R
+      Value: -5
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -5
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -4
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: -3
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -10
+   | | | | | | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y|R| | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -5
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |Y| | |Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |Y| |Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | |Y| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -10
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R|Y| | |
+      | | | |Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y|R|Y| |
+
+      AI will play next on the board below as R
+      Value: -5
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y|R| |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -10
+   | | | | | | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| |R| |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -6
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |Y| | |Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |Y| |Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -10
+      | | | |Y| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y|Y|R| |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| |Y| |
+      | | | |Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| |R|Y|
+
+   Opponent will play next on the board below as Y
+   Value: -11
+   | | | | | | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | |R|
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -7
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |Y| | |Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |Y| |Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -11
+      | | | |Y| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y|Y| |R|
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| |Y|R|
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | | | | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | |Y|
+      | | | |Y| | |R|
+
+AI-R2 put a chip in column 3, resulting in
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+
+AI-Y1 put a chip in column 2, resulting in
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | |Y|Y| | | |
+
+AI-R2's state is now
+AI will play next on the board below as R
+Value: -8
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | |Y|Y| | | |
+
+Children at depth 1:
+----------------
+   Opponent will play next on the board below as Y
+   Value: -10
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   |R| |Y|Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -6
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      |Y| | |R| | | |
+      |R| |Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |R|Y|Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -10
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |Y|R| | | |
+      |R| |Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |R| |Y|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |R| |Y|Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: -5
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |R| |Y|Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -9
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | |R|Y|Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -4
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |Y|R|Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | |Y| |R| | | |
+      | |R|Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |Y|R| | | |
+      | |R|Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |R|Y|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -5
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |R|Y|Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: -4
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |R|Y|Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -8
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: 0
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |R|R| | | |
+      |Y| |Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -1
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |R|R| | | |
+      | |Y|Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -2
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -1
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: 0
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -8
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | |Y|Y|R| | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -3
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |Y| |Y|Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -4
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |Y|Y|Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |Y|R| | | |
+      | | |Y|Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R|Y| | |
+      | | |Y|Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -4
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y|R|Y| |
+
+      AI will play next on the board below as R
+      Value: -3
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y|R| |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -9
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | |Y|Y| |R| |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -4
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |Y| |Y|Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -5
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |Y|Y|Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |Y|R| | | |
+      | | |Y|Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y|Y|R| |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| |Y| |
+      | | |Y|Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -4
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| |R|Y|
+
+   Opponent will play next on the board below as Y
+   Value: -10
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | |Y|Y| | |R|
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -5
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      |Y| |Y|Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | |Y|Y|Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -10
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |Y|R| | | |
+      | | |Y|Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y|Y| |R|
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| |Y|R|
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | |Y|
+      | | |Y|Y| | |R|
+
+AI-R2 put a chip in column 2, resulting in
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | | |Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+
+AI-Y1 put a chip in column 2, resulting in
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+
+AI-R2's state is now
+AI will play next on the board below as R
+Value: -5
+| | | |R| | | |
+| | | |Y| | | |
+| | | |R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+
+Children at depth 1:
+----------------
+   Opponent will play next on the board below as Y
+   Value: -16
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   |R| |Y|Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -9
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      |Y| |R|R| | | |
+      |R| |Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |R|Y|Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -16
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |Y|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |R| |Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -10
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |R| |Y|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |R| |Y|Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |R| |Y|Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -15
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | |R|Y|Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -7
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |Y|R|Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -10
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | |Y|R|R| | | |
+      | |R|Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -15
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |Y|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |R|Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |R|Y|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |R|Y|Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |R|Y|Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -5
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: 0
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |Y| |Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -1
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |Y|Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -5
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -2
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -1
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: 0
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -14
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y|R| | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -6
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |Y| |Y|Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |Y|Y|Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -14
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |Y|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -11
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R|Y| | |
+      | | |Y|Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y|R|Y| |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y|R| |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -15
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| |R| |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -7
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |Y| |Y|Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |Y|Y|Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -15
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |Y|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y|Y|R| |
+
+      AI will play next on the board below as R
+      Value: -10
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| |Y| |
+      | | |Y|Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| |R|Y|
+
+   Opponent will play next on the board below as Y
+   Value: -16
+   | | | |R| | | |
+   | | | |Y| | | |
+   | | | |R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | |R|
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -8
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |Y| |Y|Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |Y|Y|Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -16
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | |Y|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -10
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y|Y| |R|
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| |Y|R|
+
+      AI will play next on the board below as R
+      Value: -9
+      | | | |R| | | |
+      | | | |Y| | | |
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | |Y|
+      | | |Y|Y| | |R|
+
+AI-R2 put a chip in column 2, resulting in
+| | | |R| | | |
+| | | |Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+
+AI-Y1 put a chip in column 2, resulting in
+| | | |R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+
+AI-R2's state is now
+AI will play next on the board below as R
+Value: -5
+| | | |R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+
+Children at depth 1:
+----------------
+   Opponent will play next on the board below as Y
+   Value: -7
+   | | | |R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   |R| |Y|Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -6
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      |Y| |R|R| | | |
+      |R| |Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |R|Y|Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | |Y|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |R| |Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |R| |Y|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |R| |Y|Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: -5
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |R| |Y|Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -7
+   | | | |R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | |R|Y|Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -4
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |Y|R|Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | |Y|R|R| | | |
+      | |R|Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | |Y|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |R|Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |R|Y|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -5
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |R|Y|Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: -4
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |R|Y|Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -5
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -3
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |Y| |Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -4
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |Y|Y|Y| | | |
+
+      AI will play next on the board below as R
+      Value: -5
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -4
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| |Y| |
+
+      AI will play next on the board below as R
+      Value: -3
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -8
+   | | | |R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y|R| | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -3
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |Y| |Y|Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -4
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |Y|Y|Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -5
+      | | |Y|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R|Y| | |
+      | | |Y|Y|R| | |
+
+      AI will play next on the board below as R
+      Value: -4
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y|R|Y| |
+
+      AI will play next on the board below as R
+      Value: -3
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y|R| |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -7
+   | | | |R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| |R| |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -4
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |Y| |Y|Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -5
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |Y|Y|Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | |Y|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y|Y|R| |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| |Y| |
+      | | |Y|Y| |R| |
+
+      AI will play next on the board below as R
+      Value: -4
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| |R|Y|
+
+   Opponent will play next on the board below as Y
+   Value: -7
+   | | | |R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | |R|
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -5
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |Y| |Y|Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |Y|Y|Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -7
+      | | |Y|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | |R|
+
+      AI will play next on the board below as R
+      Value: -7
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y|Y| |R|
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| |Y|R|
+
+      AI will play next on the board below as R
+      Value: -6
+      | | | |R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | |Y|
+      | | |Y|Y| | |R|
+
+AI-R2 put a chip in column 2, resulting in
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+
+AI-Y1 put a chip in column 4, resulting in
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y|Y| | |
+
+AI-R2's state is now
+AI will play next on the board below as R
+Value: -2147483648
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y|Y| | |
+
+Children at depth 1:
+----------------
+   Opponent will play next on the board below as Y
+   Value: -2147483648
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   |R| |Y|Y|Y| | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -6
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      |Y| |R|R| | | |
+      |R| |Y|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -2147483648
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |R|Y|Y|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -10
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R|Y| | |
+      |R| |Y|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -2147483648
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |R| |Y|Y|Y|Y| |
+
+      AI will play next on the board below as R
+      Value: -5
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |R| |Y|Y|Y| |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -2147483648
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | |R|Y|Y|Y| | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -4
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |Y|R|Y|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | |Y|R|R| | | |
+      | |R|Y|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R|Y| | |
+      | |R|Y|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -2147483648
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |R|Y|Y|Y|Y| |
+
+      AI will play next on the board below as R
+      Value: -4
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |R|Y|Y|Y| |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -2147483648
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R|R| | |
+   | | |Y|Y|Y| | |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: 0
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R|R| | |
+      |Y| |Y|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -2147483648
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R|R| | |
+      | |Y|Y|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -8
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y|Y| | |
+      | | |R|R|R| | |
+      | | |Y|Y|Y| | |
+
+      AI will play next on the board below as R
+      Value: -2147483648
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R|R| | |
+      | | |Y|Y|Y|Y| |
+
+      AI will play next on the board below as R
+      Value: 0
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R|R| | |
+      | | |Y|Y|Y| |Y|
+
+   Opponent will play next on the board below as Y
+   Value: -2147483648
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y|Y|R| |
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -4
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |Y| |Y|Y|Y|R| |
+
+      AI will play next on the board below as R
+      Value: -2147483648
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |Y|Y|Y|Y|R| |
+
+      AI will play next on the board below as R
+      Value: -9
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R|Y| | |
+      | | |Y|Y|Y|R| |
+
+      AI will play next on the board below as R
+      Value: -7
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| |Y| |
+      | | |Y|Y|Y|R| |
+
+      AI will play next on the board below as R
+      Value: -4
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y|Y|R|Y|
+
+   Opponent will play next on the board below as Y
+   Value: -2147483648
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y| | | |
+   | | |R|R| | | |
+   | | |Y|Y|Y| |R|
+
+   Children at depth 2:
+   ----------------
+      AI will play next on the board below as R
+      Value: -5
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      |Y| |Y|Y|Y| |R|
+
+      AI will play next on the board below as R
+      Value: -2147483648
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | |Y|Y|Y|Y| |R|
+
+      AI will play next on the board below as R
+      Value: -10
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R|Y| | |
+      | | |Y|Y|Y| |R|
+
+      AI will play next on the board below as R
+      Value: -2147483648
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y|Y|Y|R|
+
+      AI will play next on the board below as R
+      Value: -6
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | | |
+      | | |Y|Y| | | |
+      | | |R|R| | |Y|
+      | | |Y|Y|Y| |R|
+
+AI-R2 put a chip in column 0, resulting in
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+|R| |Y|Y|Y| | |
+
+AI-Y1 put a chip in column 1, resulting in
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+|R|Y|Y|Y|Y| | |
+
+AI-R2's state is now
+AI will play next on the board below as R
+Value: -2147483648
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+| | |Y|Y| | | |
+| | |R|R| | | |
+|R|Y|Y|Y|Y| | |
+
+AI-Y1 won the game!!!
